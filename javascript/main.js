@@ -35,7 +35,7 @@ IMG_BLOCK = [
     ['./img/block16.png', './img/block17.png', './img/block18.png', './img/block19.png', './img/block20.png', './img/block19.png', './img/block18.png', './img/block17.png', ],
 ];
 IMG_BLOCK_LOSE = ['./img/block0.png'];
-var G_LevelIndex = 5;
+var G_LevelIndex = 0;
 var G_MaxLevelIndex = 0;
 var cat1 = null;
 var cat2 = null;
