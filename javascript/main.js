@@ -848,7 +848,10 @@ function main() {
                 cat1.moveRight()
             }
         }
-
+        if (event.key == gamejs.event.K_r) {
+            init(G_LevelIndex);
+            G_STATE = STATE_RUNNING;
+        }
     }
 
     function keyDownOnLost(event) {
