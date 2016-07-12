@@ -234,21 +234,21 @@ LEVELS = [
     },
     //level 4
     {
-        cat1: [3, 6, 12],
-        cat2: [16, 8, 12],
+        cat1: [3, 6, 11],
+        cat2: [15, 8, 11],
         blocks: [{
             coordinate: [4, 6],
             comp: [
                 [0, 0]
             ],
         }, {
-            coordinate: [15, 8],
+            coordinate: [14, 8],
             comp: [
                 [0, 0]
             ],
         }],
         heart1: [4, 5],
-        heart2: [15, 7],
+        heart2: [14, 7],
     },
     //level 5
     {
