@@ -78,8 +78,8 @@ LEVELS = [
     },
     //level 1
     {
-        cat1: [5, 8, 12],
-        cat2: [14, 8, 12],
+        cat1: [5, 8, 10],
+        cat2: [14, 7, 9],
         blocks: [{
             coordinate: [6, 6],
             comp: [
